@@ -1,1 +1,1 @@
-web: gunicorn email_verifier_v2:app
+web: gunicorn email_verifier:app
